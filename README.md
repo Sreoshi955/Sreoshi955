@@ -73,15 +73,19 @@ Machine Learning, Python, Deep Learning, Transformers, Data Visualization, and A
 
 ---
 
-### 📈 GitHub Stats
+## 🔥 GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreoshi-bhowmik&show_icons=true&theme=dracula" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreoshi-bhowmik&layout=compact&theme=dracula" width="48%" />
+Keeping track of my contributions:
+
+<p float="left" align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sreoshi955&show_icons=true&locale=en&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ff0000&bg_color=1a1a1a" width="48%" alt="Sreoshi955 GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sreoshi955&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ff0000&bg_color=1a1a1a" width="48%" alt="Top Languages" />
 </p>
 
+<br clear="both" />
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreoshi-bhowmik&theme=dark" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreoshi955&theme=dark&ring=ff0000&currstreakLabel=ffffff&currstreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&background=1a1a1a" alt="GitHub Streak" />
 </p>
 
 ---
