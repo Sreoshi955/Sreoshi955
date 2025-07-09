@@ -23,7 +23,7 @@
 
 ## 👩‍🎓 About Me
 
-- 🎓 Final-year Data Science student with a strong foundation in Python, ML, and Statistics  
+- 🎓 Data Science student with a strong foundation in Python, ML, and Statistics  
 - 🤖 Passionate about **Machine Learning**, **Deep Learning**, and **Transformers**  
 - 🔬 Exploring the frontier of **Large Language Models (LLMs)** and real-world AI  
 - 🚀 Building end-to-end projects that solve meaningful problems  
