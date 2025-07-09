@@ -69,7 +69,7 @@ Machine Learning, Python, Deep Learning, Transformers, Data Visualization, and A
 
 ### 📄 Resume
 
-📄 *Coming Soon* — Reach out on [LinkedIn](https://www.linkedin.com/in/sreoshi-bhowmik-b04454303) for details.
+📄 Reach out on [LinkedIn](https://www.linkedin.com/in/sreoshi-bhowmik-b04454303) for details.
 
 ---
 
@@ -93,9 +93,9 @@ Keeping track of my contributions:
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/sreoshi-bhowmik/stock-price-forecasting" target="_blank">📈 Stock Price Forecasting</a> &nbsp;|&nbsp;
-  <a href="https://github.com/sreoshi-bhowmik/sentiment-analysis-llm" target="_blank">💬 LLM-based Sentiment Analysis</a> &nbsp;|&nbsp;
-  <a href="https://github.com/sreoshi-bhowmik/diabetes-predictor" target="_blank">🧪 Diabetes Prediction Model</a>
+  <a href="https://github.com/Sreoshi955/Recommendation-System-based-eCommerce-Website.git" target="_blank">Recommendation based E-Commerce Website</a> &nbsp;|&nbsp;
+  <a href="https://github.com/Sreoshi955/Teachable-Machine.git" target="_blank">Teachable Machine</a> &nbsp;|&nbsp;
+  <a href="https://github.com/Sreoshi955/Breast-Cancer-Prediction-Web-App.git" target="_blank">Breast Cancer Prediction Web App</a>
 </p>
 
 ---
@@ -103,6 +103,6 @@ Keeping track of my contributions:
 ### 💡 Quote I Live By
 
 > “Data is the new oil, but insight is the spark.”  
-> – Sreoshi Bhowmik 🚀
+> – Sreoshi Bhowmik 
 
 ---
