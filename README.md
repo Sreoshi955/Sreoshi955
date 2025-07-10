@@ -124,20 +124,21 @@ If you're working on something exciting or need a collaborator — feel free to 
 
 ## 🚀 Featured Projects
 
-A curated selection of recent projects combining AI, ML, and data visualization:
+## 🚀 Featured Projects
 
-- 🛒 **[Recommendation-Based E-Commerce Website](https://github.com/Sreoshi955/Recommendation-System-based-eCommerce-Website.git)**  
-  Built an intelligent recommendation system integrated into an e-commerce platform using collaborative filtering and Flask.
+A selection of my recent work:
 
-- 🤖 **[Teachable Machine – Image Classification](https://github.com/Sreoshi955/Teachable-Machine.git)**  
-  Trained a browser-based image classification model with TensorFlow.js and custom data using Google Teachable Machine.
-
-- 🩺 **[Breast Cancer Prediction Web App](https://github.com/Sreoshi955/Breast-Cancer-Prediction-Web-App.git)**  
-  A Streamlit-powered ML app that predicts cancer probability using SVM, Logistic Regression, and user input features.
-
-> 🌟 I'm constantly building, learning, and exploring new ideas. Stay tuned for more projects!
-
----
+<p align="center">
+  <a href="https://github.com/Sreoshi955/Recommendation-System-based-eCommerce-Website.git" target="_blank">
+    <img src="https://img.shields.io/badge/ML%20Project-Recommendation%20System-red?style=for-the-badge&logo=github&logoColor=white" alt="Recommendation System" />
+  </a> &nbsp;
+  <a href="https://github.com/Sreoshi955/Breast-Cancer-Prediction-Web-App.git" target="_blank">
+    <img src="https://img.shields.io/badge/ML%20Web%20App-Cancer%20Prediction-pink?style=for-the-badge&logo=streamlit&logoColor=white" alt="Cancer Prediction App" />
+  </a> &nbsp;
+  <a href="https://github.com/Sreoshi955/Teachable-Machine.git" target="_blank">
+    <img src="https://img.shields.io/badge/Image%20Classifier-Teachable%20Machine-blue?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Teachable Machine" />
+  </a>
+</p>
 
 ---
 
