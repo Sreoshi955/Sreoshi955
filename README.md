@@ -124,16 +124,14 @@ If you're working on something exciting or need a collaborator — feel free to 
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 A selection of my recent work:
 
 <p align="center">
   <a href="https://github.com/Sreoshi955/Recommendation-System-based-eCommerce-Website.git" target="_blank">
-    <img src="https://img.shields.io/badge/ML%20Project-Recommendation%20System-red?style=for-the-badge&logo=github&logoColor=white" alt="Recommendation System" />
+    <img src="https://img.shields.io/badge/ML%20Project-Recommendation%20System-red?style=for-the-badge&logo=github&logoColor=white" alt="Recommendation System based eCommerce Website" />
   </a> &nbsp;
   <a href="https://github.com/Sreoshi955/Breast-Cancer-Prediction-Web-App.git" target="_blank">
-    <img src="https://img.shields.io/badge/ML%20Web%20App-Cancer%20Prediction-pink?style=for-the-badge&logo=streamlit&logoColor=white" alt="Cancer Prediction App" />
+    <img src="https://img.shields.io/badge/ML%20Web%20App-Cancer%20Prediction-pink?style=for-the-badge&logo=streamlit&logoColor=white" alt="Breast Cancer Prediction Web App" />
   </a> &nbsp;
   <a href="https://github.com/Sreoshi955/Teachable-Machine.git" target="_blank">
     <img src="https://img.shields.io/badge/Image%20Classifier-Teachable%20Machine-blue?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Teachable Machine" />
