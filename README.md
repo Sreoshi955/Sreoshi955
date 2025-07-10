@@ -124,13 +124,18 @@ If you're working on something exciting or need a collaborator — feel free to 
 
 ## 🚀 Featured Projects
 
-Here are a few projects I’ve worked on recently:
+A curated selection of recent projects combining AI, ML, and data visualization:
 
-- 🔗 [Recommendation-Based E-Commerce Website](https://github.com/Sreoshi955/Recommendation-System-based-eCommerce-Website.git)  
-- 🔗 [Teachable Machine](https://github.com/Sreoshi955/Teachable-Machine.git)  
-- 🔗 [Breast Cancer Prediction Web App](https://github.com/Sreoshi955/Breast-Cancer-Prediction-Web-App.git)
+- 🛒 **[Recommendation-Based E-Commerce Website](https://github.com/Sreoshi955/Recommendation-System-based-eCommerce-Website.git)**  
+  Built an intelligent recommendation system integrated into an e-commerce platform using collaborative filtering and Flask.
 
-> 🌟 I'm always working on something new – stay tuned!
+- 🤖 **[Teachable Machine – Image Classification](https://github.com/Sreoshi955/Teachable-Machine.git)**  
+  Trained a browser-based image classification model with TensorFlow.js and custom data using Google Teachable Machine.
+
+- 🩺 **[Breast Cancer Prediction Web App](https://github.com/Sreoshi955/Breast-Cancer-Prediction-Web-App.git)**  
+  A Streamlit-powered ML app that predicts cancer probability using SVM, Logistic Regression, and user input features.
+
+> 🌟 I'm constantly building, learning, and exploring new ideas. Stay tuned for more projects!
 
 ---
 
