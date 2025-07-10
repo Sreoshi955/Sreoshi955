@@ -139,11 +139,23 @@ A curated selection of recent projects combining AI, ML, and data visualization:
 
 ---
 
-## 💡 Quote I Live By
+---
+
+### 💡 A Little Insight
 
 <p align="center">
-  <strong><i>"Data is the new oil, but insight is the spark."</i></strong>  
-  <br>— <em>Sreoshi Bhowmik</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=1000&color=FF6F61&center=true&vCenter=true&width=1000&lines=Driven+by+curiosity+%7C+Empowered+by+data+%7C+Inspired+by+impact.;Turning+raw+data+into+actionable+insights+is+my+superpower.;Exploring+LLMs%2C+GenAI%2C+and+the+future+of+intelligence." />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="200" alt="AI Spark GIF"/>
+</p>
+
+<p align="center">
+  <em>"Behind every dataset is a story — and I'm here to tell it through code, creativity, and curiosity."</em>
+  <br>
+  — <strong>Sreoshi Bhowmik</strong>
+</p>
+
 
 ---
