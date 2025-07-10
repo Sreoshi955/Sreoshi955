@@ -22,12 +22,14 @@
 
 ## 👩‍🎓 About Me
 
-- 🎓 Data Science student with a solid foundation in Python, Machine Learning, and Statistics  
-- 🤖 Enthusiast in **AI**, **Deep Learning**, and **Large Language Models (LLMs)** like Transformers  
+- 🎓 Data Science student with a strong foundation in Python, Machine Learning, and Statistics  
+- 🤖 Enthusiastic about **AI**, **Deep Learning**, and **Large Language Models (LLMs)** such as Transformers  
 - 🌐 Skilled in **Frontend Web Development** using **HTML, CSS, JavaScript**, and **React.js**  
-- 🛠️ Experienced in building **end-to-end ML/DL web applications** using **Flask** and **Streamlit**  
-- 🚀 Passionate about solving real-world problems through data and deploying intelligent systems  
-- 💡 Actively contributing to open-source, collaborating on tech projects, and exploring AI for good  
+- 🛠️ Experienced in building **end-to-end ML/DL applications** using **Flask**, **Streamlit**, and modern data pipelines  
+- 💼 Currently working as an **AI/ML Intern at Elevate Labs**, and as a **GenAI Intern at AI Wallh**  
+- 🤝 Collaborating on impactful projects involving **AI**, **ML**, and **Frontend Development**  
+- 🚀 Passionate about solving real-world problems with data and deploying intelligent systems  
+- 💡 Actively contributing to open-source, engaging in collaborative tech initiatives, and exploring AI for good
 
 ---
 
