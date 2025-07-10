@@ -68,10 +68,12 @@
 
 ## 🌱 Currently Learning
 
-- 🧠 Advanced Deep Learning Architectures (CNNs, RNNs, GANs)
-- 🤖 Large Language Models like GPT, BERT, and Transformers
-- 📊 Business Intelligence & Dashboarding Tools
-- 📈 Applied Statistics for Data Science
+- 🤖 Hands-on experience with **Generative AI** and **LLM fine-tuning** (e.g., GPT, BERT, T5)
+- 🧠 Exploring **Prompt Engineering**, **LangChain**, and **RAG-based architectures**
+- 💻 Enhancing skills in **React.js** and modern frontend frameworks for AI-integrated web apps
+- 📦 Working with **APIs**, **Flask**, and **Streamlit** to deploy ML models seamlessly
+- 📈 Improving proficiency in **Data Storytelling** using tools like **Power BI**, **Tableau**, and **Excel**
+- 🧪 Diving deeper into **MLOps**, **Model Evaluation**, and **Real-world AI Deployment**
 
 ---
 
