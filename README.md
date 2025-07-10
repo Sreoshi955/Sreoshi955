@@ -35,8 +35,6 @@
 
 ## 🛠️ Skills & Tools
 
-## 🛠️ Skills & Tools
-
 <p align="center">
   <!-- Programming & Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C Language"/>
@@ -88,14 +86,25 @@
 - End-to-end ML/DL Web App Development using Flask and Streamlit  
 - Frontend Development with HTML, CSS, JavaScript, and React.js  
 - Data Visualization & Storytelling with Power BI, Tableau, and Excel  
-- Real-world model deployment, API integration, and collaborative project development  
+- Real-world model deployment, API integration, and collaborative project development
 
 ---
 
-## 📫 Contact Me
+## 💬 Let's Connect!
 
-- 📧 **Email**: sreoshibhowmik28@gmail.com  
-- 🔗 **LinkedIn**: [linkedin.com/in/sreoshi-bhowmik-b04454303](https://www.linkedin.com/in/sreoshi-bhowmik-b04454303)
+I'm always open to meaningful conversations and collaborative opportunities in:
+
+If you're working on something exciting or need a collaborator — feel free to reach out!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sreoshi-bhowmik-b04454303" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sreoshibhowmik28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
