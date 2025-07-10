@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="150" alt="Coding GIF"/>
-</div>
+  <img height="180" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="AI Coding GIF" />
 
-<h1 align="center">Hi 👋, I'm Sreoshi Bhowmik</h1>
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sreoshi+Bhowmik;AI+%7C+ML+%7C+LLMs+%7C+Web+Dev+Enthusiast;Exploring+Transformers+%26+Generative+AI;Building+Real-world+Tech+Solutions" />
+</div>
 
 <h3 align="center">
   🎓 A Data Science Student 
