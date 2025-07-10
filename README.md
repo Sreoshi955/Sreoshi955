@@ -96,12 +96,6 @@
 
 ---
 
-## 📄 Resume
-
-📥 **Reach out via LinkedIn or Email** to view/download my latest resume.
-
----
-
 ## 📊 GitHub Stats & Activity
 
 <p float="left" align="center">
