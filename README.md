@@ -98,15 +98,9 @@
 
 ## 📊 GitHub Stats & Activity
 
-<p float="left" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sreoshi955&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ff6347&bg_color=1a1a1a" width="48%" alt="Sreoshi GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sreoshi955&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=1a1a1a" width="48%" alt="Top Languages"/>
-</p>
-
-<br clear="both" />
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sreoshi955&theme=dark&ring=ff6347&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&background=1a1a1a" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sreoshi955&show_icons=true&count_private=true&hide_border=true&title_color=ff6f61&text_color=c9d1d9&icon_color=ff6f61&bg_color=0d1117" width="48%" alt="Sreoshi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreoshi955&layout=compact&hide_border=true&title_color=ff6f61&text_color=c9d1d9&bg_color=0d1117" width="48%" alt="Top Languages" />
 </p>
 
 ---
