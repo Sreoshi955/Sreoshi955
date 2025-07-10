@@ -79,12 +79,13 @@
 
 ## 💬 Ask Me About
 
-- Python for Data Science  
-- Machine Learning & Model Evaluation  
-- Deep Learning & Transformers  
-- Exploratory Data Analysis  
-- Statistics & Probability in AI  
-- Model Deployment & Web Apps (Flask/Streamlit)
+- Building AI/ML models using Python, TensorFlow, and PyTorch  
+- Working with Large Language Models (LLMs), Transformers, and Generative AI  
+- Prompt Engineering, RAG pipelines, and LangChain integration  
+- End-to-end ML/DL Web App Development using Flask and Streamlit  
+- Frontend Development with HTML, CSS, JavaScript, and React.js  
+- Data Visualization & Storytelling with Power BI, Tableau, and Excel  
+- Real-world model deployment, API integration, and collaborative project development  
 
 ---
 
