@@ -110,7 +110,7 @@
 Here are a few projects I’ve worked on recently:
 
 - 🔗 [Recommendation-Based E-Commerce Website](https://github.com/Sreoshi955/Recommendation-System-based-eCommerce-Website.git)  
-- 🔗 [Teachable Machine with TensorFlow.js](https://github.com/Sreoshi955/Teachable-Machine.git)  
+- 🔗 [Teachable Machine](https://github.com/Sreoshi955/Teachable-Machine.git)  
 - 🔗 [Breast Cancer Prediction Web App](https://github.com/Sreoshi955/Breast-Cancer-Prediction-Web-App.git)
 
 > 🌟 I'm always working on something new – stay tuned!
@@ -119,7 +119,9 @@ Here are a few projects I’ve worked on recently:
 
 ## 💡 Quote I Live By
 
-> “**Data is the new oil, but insight is the spark.**”  
-> — *Sreoshi Bhowmik*
+<p align="center">
+  <strong><i>"Data is the new oil, but insight is the spark."</i></strong>  
+  <br>— <em>Sreoshi Bhowmik</em>
+</p>
 
 ---
