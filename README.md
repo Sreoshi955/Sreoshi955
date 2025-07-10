@@ -5,8 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sreoshi Bhowmik</h1>
 
 <h3 align="center">
-  🎓 Aspiring Data Scientist | AI & ML Enthusiast<br>
-  Passionate about Transforming Data into Actionable Insights
+  🎓 A Data Science Student 
 </h3>
 
 <p align="center">
