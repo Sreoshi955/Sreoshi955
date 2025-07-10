@@ -115,6 +115,11 @@ If you're working on something exciting or need a collaborator — feel free to 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sreoshi955&layout=compact&hide_border=true&title_color=ff6f61&text_color=c9d1d9&bg_color=0d1117" width="48%" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sreoshi955&theme=github_dark" alt="GitHub Contribution Summary" />
+</p>
+
+
 ---
 
 ## 🚀 Featured Projects
