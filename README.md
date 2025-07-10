@@ -22,11 +22,12 @@
 
 ## 👩‍🎓 About Me
 
-- 🎓 Data Science student with a strong foundation in Python, ML, and Statistics  
-- 🤖 Passionate about **Machine Learning**, **Deep Learning**, and **Transformers**  
-- 🔬 Exploring the frontier of **Large Language Models (LLMs)** and real-world AI  
-- 🚀 Building end-to-end projects that solve meaningful problems  
-- 💡 Enthusiastic about contributing to impactful data science communities
+- 🎓 Data Science student with a solid foundation in Python, Machine Learning, and Statistics  
+- 🤖 Enthusiast in **AI**, **Deep Learning**, and **Large Language Models (LLMs)** like Transformers  
+- 🌐 Skilled in **Frontend Web Development** using **HTML, CSS, JavaScript**, and **React.js**  
+- 🛠️ Experienced in building **end-to-end ML/DL web applications** using **Flask** and **Streamlit**  
+- 🚀 Passionate about solving real-world problems through data and deploying intelligent systems  
+- 💡 Actively contributing to open-source, collaborating on tech projects, and exploring AI for good  
 
 ---
 
